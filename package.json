@@ -1,0 +1,12 @@
+{
+  "name": "epic4",
+  "version": "1.0.0",
+  "description": "epic4 web packagee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "http-server -a 0.0.0.0 -p 8000"
+  },
+  "author": "",
+  "license": "ISC"
+}
